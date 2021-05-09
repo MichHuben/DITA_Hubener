@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+    <title>DITA MAP (Hubener)</title>
+    <topicref href="dita_concept.dita"/>
+    <topicref href="dita_task.dita"/>
+</map>
